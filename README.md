@@ -140,6 +140,13 @@ Pro商业版支持素材管理功能，可以在后台维护字体、模板、�
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/funnyzak">
+            <img src="https://avatars.githubusercontent.com/u/2562087?v=4" width="80;" alt="funnyzak"/>
+            <br />
+            <sub><b>funnyzak</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/nihaojob">
             <img src="https://avatars.githubusercontent.com/u/13534626?v=4" width="80;" alt="nihaojob"/>
             <br />
@@ -173,15 +180,15 @@ Pro商业版支持素材管理功能，可以在后台维护字体、模板、�
             <br />
             <sub><b>makeng</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/z09176141">
             <img src="https://avatars.githubusercontent.com/u/49260613?v=4" width="80;" alt="z09176141"/>
             <br />
             <sub><b>z09176141</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/a847244052">
             <img src="https://avatars.githubusercontent.com/u/28621500?v=4" width="80;" alt="a847244052"/>
@@ -216,15 +223,15 @@ Pro商业版支持素材管理功能，可以在后台维护字体、模板、�
             <br />
             <sub><b>yehan68</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/luke358">
             <img src="https://avatars.githubusercontent.com/u/48149577?v=4" width="80;" alt="luke358"/>
             <br />
             <sub><b>luke358</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/ylx252">
             <img src="https://avatars.githubusercontent.com/u/6425957?v=4" width="80;" alt="ylx252"/>
@@ -259,15 +266,15 @@ Pro商业版支持素材管理功能，可以在后台维护字体、模板、�
             <br />
             <sub><b>slarkerino</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/rolitter">
             <img src="https://avatars.githubusercontent.com/u/27326998?v=4" width="80;" alt="rolitter"/>
             <br />
             <sub><b>rolitter</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/macheteHot">
             <img src="https://avatars.githubusercontent.com/u/26652329?v=4" width="80;" alt="macheteHot"/>
@@ -302,15 +309,15 @@ Pro商业版支持素材管理功能，可以在后台维护字体、模板、�
             <br />
             <sub><b>Yangzongtai</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/icleitoncosta">
             <img src="https://avatars.githubusercontent.com/u/3260480?v=4" width="80;" alt="icleitoncosta"/>
             <br />
             <sub><b>icleitoncosta</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/liucity">
             <img src="https://avatars.githubusercontent.com/u/12006542?v=4" width="80;" alt="liucity"/>
